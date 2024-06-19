@@ -1,8 +1,4 @@
-## Привет 👋
-
 ![баннер](https://github.com/sharomannn/sharomannn/assets/113632199/f036f87c-143e-4dfb-978c-7c3d593ef614)
-
-
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharomannn&layout=compact&theme=catppuccin_mocha" />
@@ -16,7 +12,7 @@
 ![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4)
 
 ## Обо мне
-Я Python-разработчик с классическим стеком Python Django и полутора годами опыта. Мне нравится решать задачи на таких платформах, как LeetCode и Codewars, и я постоянно совершенствую свои навыки и знания в веб-разработке.
+Я Python-разработчик с классическим стеком Python Django. 1.5 года коммерческого опыта.
 
 ## Проекты
 <p align="top" >
