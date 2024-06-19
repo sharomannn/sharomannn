@@ -1,11 +1,15 @@
-## Hi there 👋
-
-![banner (1)](https://github.com/sharomannn/sharomannn/assets/113632199/f036f87c-143e-4dfb-978c-7c3d593ef614)
+![баннер](https://github.com/sharomannn/sharomannn/assets/113632199/f036f87c-143e-4dfb-978c-7c3d593ef614)
 
 ![Codewars](https://github.r2v.ch/codewars?user=sharomannn&stroke=#7860b5ff)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharomannn&layout=compact&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sharomannn&repo=car-detection&theme=catppuccin_mocha)](https://github.com/sharomannn/car-detection)
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharomannn&layout=compact&theme=catppuccin_mocha" />
+  </a>
+  <a href="https://github.com/sharomannn/car-detection">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=sharomannn&repo=car-detection&theme=catppuccin_mocha" />
+  </a>
+</div>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
