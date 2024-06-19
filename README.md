@@ -19,8 +19,6 @@
 Я Python-разработчик с классическим стеком Python Django и полутора годами опыта. Мне нравится решать задачи на таких платформах, как LeetCode и Codewars, и я постоянно совершенствую свои навыки и знания в веб-разработке.
 
 ## Проекты
-- **Обнаружение автомобилей**: [Ссылка на репозиторий](https://github.com/sharomannn/car-detection)
-
 <p align="top" >
   <a href="https://github.com/sharomannn/car-detection">
     <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=sharomannn&repo=car-detection&theme=catppuccin_mocha" />
