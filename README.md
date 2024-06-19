@@ -4,14 +4,9 @@
 
 
 
-<div style="display: flex; justify-content: space-between;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharomannn&layout=compact&theme=catppuccin_mocha" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharomannn&layout=compact&theme=catppuccin_mocha" />
   </a>
-  <a href="https://github.com/sharomannn/car-detection">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=sharomannn&repo=car-detection&theme=catppuccin_mocha" />
-  </a>
-</div>
 
 ## Мой стек технологий
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -26,8 +21,8 @@
 ## Проекты
 - **Обнаружение автомобилей**: [Ссылка на репозиторий](https://github.com/sharomannn/car-detection)
 
-<p align="center" >
-    <a href="LINK TO: WHEN CLICKED">
-      <img src="https://github.r2v.ch/codewars?user=sharomannn&stroke=#7860b5ff&theme=purple_dark" />
-    </a>
+<p align="top" >
+  <a href="https://github.com/sharomannn/car-detection">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=sharomannn&repo=car-detection&theme=catppuccin_mocha" />
+  </a>
 </p>
