@@ -1,6 +1,6 @@
-![баннер](https://github.com/sharomannn/sharomannn/assets/113632199/f036f87c-143e-4dfb-978c-7c3d593ef614)
+## Привет 👋
 
-![Codewars](https://github.r2v.ch/codewars?user=sharomannn&stroke=#7860b5ff)
+![баннер](https://github.com/sharomannn/sharomannn/assets/113632199/f036f87c-143e-4dfb-978c-7c3d593ef614)
 
 <div style="display: flex; justify-content: space-between;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -18,4 +18,11 @@
 ![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+## Обо мне
+Я Python-разработчик с классическим стеком Python Django и полутора годами опыта. Мне нравится решать задачи на таких платформах, как LeetCode и Codewars, и я постоянно совершенствую свои навыки и знания в веб-разработке.
+
+## Проекты
+- **Обнаружение автомобилей**: [Ссылка на репозиторий](https://github.com/sharomannn/car-detection)
+
+Не стесняйтесь связываться со мной и изучать мои репозитории!
