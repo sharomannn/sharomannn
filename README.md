@@ -17,6 +17,6 @@
 ## Проекты
 <p align="top" >
   <a href="https://github.com/sharomannn/car-detection">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=sharomannn&repo=car-detection&theme=catppuccin_mocha" />
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=sharomannn&repo=car-detection&theme=catppuccin_mocha&show_owner=null" />
   </a>
 </p>
