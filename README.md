@@ -2,6 +2,8 @@
 
 ![баннер](https://github.com/sharomannn/sharomannn/assets/113632199/f036f87c-143e-4dfb-978c-7c3d593ef614)
 
+
+
 <div style="display: flex; justify-content: space-between;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharomannn&layout=compact&theme=catppuccin_mocha" />
@@ -25,4 +27,4 @@
 ## Проекты
 - **Обнаружение автомобилей**: [Ссылка на репозиторий](https://github.com/sharomannn/car-detection)
 
-Не стесняйтесь связываться со мной и изучать мои репозитории!
+![Codewars](https://github.r2v.ch/codewars?user=sharomannn&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
