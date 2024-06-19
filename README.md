@@ -29,6 +29,6 @@
 
 <p align="center" >
     <a href="LINK TO: WHEN CLICKED">
-      <img src="https://github.r2v.ch/codewars?user=sharomannn" />
+      <img src="https://github.r2v.ch/codewars?user=sharomannn&stroke=#7860b5ff&theme=purple_dark" />
     </a>
 </p>
