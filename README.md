@@ -8,7 +8,7 @@
 ![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4)
 
 ## Обо мне
-Я Python-разработчик с классическим стеком Python Django. 1.5 года коммерческого опыта.
+-Agile, scrum? -Fuck you, i'm russian!
 
 ## Проекты
 <p align="top" >
